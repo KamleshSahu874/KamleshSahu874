@@ -14,7 +14,7 @@ I’m passionate about **web development, problem solving, and learning new tech
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=KamleshSahu874&theme=tokyonight&hide_border=false)
+
 
 ---
 
