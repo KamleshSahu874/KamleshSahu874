@@ -4,18 +4,13 @@
 ---
 
 ## 📊 GitHub Stats
-<!-- Add your GitHub stats with token -->
-![Kamlesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=KamleshSahu874&show_icons=true&count_private=true&theme=radical&token=PAT_1)
-
----
+![GitHub Stats](./generated/stats.svg)
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=KamleshSahu874&theme=radical&token=PAT_1)
-
----
+![GitHub Streak](./generated/streak.svg)
 
 ## 🚀 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamleshSahu874&layout=compact&theme=radical&token=PAT_1)
+![Top Languages](./generated/languages.svg)
 
 ---
 
