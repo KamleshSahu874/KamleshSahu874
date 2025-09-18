@@ -1,0 +1,37 @@
+name: Update README with GitHub Stats
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # Runs every 12 hours
+  workflow_dispatch:          # Allow manual runs
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v3
+
+      - name: Generate GitHub Stats
+        run: |
+          mkdir -p generated
+          curl -H "Authorization: token ${{ secrets.PAT_1 }}" \
+            -o generated/stats.svg \
+            "https://github-readme-stats.vercel.app/api?username=KamleshSahu874&show_icons=true&count_private=true&theme=radical"
+          
+          curl -H "Authorization: token ${{ secrets.PAT_1 }}" \
+            -o generated/streak.svg \
+            "https://streak-stats.demolab.com?user=KamleshSahu874&theme=radical"
+          
+          curl -H "Authorization: token ${{ secrets.PAT_1 }}" \
+            -o generated/languages.svg \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=KamleshSahu874&layout=compact&theme=radical"
+
+      - name: Commit and Push
+        run: |
+          git config --global user.email "action@github.com"
+          git config --global user.name "GitHub Action"
+          git add generated/*
+          git commit -m "Updated README stats" || echo "No changes"
+          git push
