@@ -7,14 +7,14 @@ I’m passionate about **web development, problem solving, and learning new tech
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KamleshSahu874&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=KamleshSahu874&count_private=true&show_icons=true&theme=radical&token=PAT_1)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamleshSahu874&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com/?user=KamleshSahu874&theme=tokyonight&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=KamleshSahu874&theme=radical&token=PAT_1)
 
 
 ---
