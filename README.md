@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamlesh Kumar Sahu</h1>
 
 <p align="center">
-  <b>Software Developer • Problem Solver • Tech Enthusiast</b>
+  <b>Software Developer • Problem Solver • Tech Enthusiast • Lifelong Learner </b>
 </p>
 
 <p align="center">
@@ -33,47 +33,13 @@
 
 ```yaml
 name: Kamlesh Kumar Sahu
-
-role:
-  - Software Developer
-  - Problem Solver
-  - Tech Enthusiast
-
-focus:
-  - Data Structures & Algorithms
-  - Java Development
-  - Web Development
-  - AI / ML
-
-languages:
-  - Java
-  - Python
-  - C++
-  - JavaScript
-
-web_technologies:
-  - HTML
-  - CSS
-  - JavaScript
-  - React
-  - Next.js
-  - Node.js
-  - Tailwind CSS
-
-databases:
-  - MongoDB
-  - MySQL
-
-tools:
-  - Git
-  - GitHub
-  - VS Code
-
-currently_learning:
-  - DSA
-  - Advanced Java
-  - AI / ML
-  - Modern Web Development
+role: Software Developer
+focus: Web Development • DSA • AI/ML
+languages: Java • Python • C++ • JavaScript
+technologies: React • Next.js • Node.js • Tailwind CSS
+databases: MongoDB • MySQL
+tools: Git • GitHub • VS Code
+learning: DSA • AI/ML • Advanced Java
 ```
 
 ---
@@ -102,17 +68,6 @@ currently_learning:
 
 ---
 
-## 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=KamleshSahu874&theme=tokyo-night&hide_border=true&area=true"
-    width="100%"
-    alt="Contribution Activity"
-  />
-</p>
-
----
 
 ## 🧑‍💻 Top Languages
 
@@ -177,7 +132,6 @@ currently_learning:
     />
   </a>
 
-  &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.hackerrank.com/profile/kamlesh_cs231105">
     <img
@@ -222,63 +176,6 @@ currently_learning:
 
 ---
 
-## 🏆 GitHub Achievements
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=KamleshSahu874&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"
-    alt="GitHub Achievements"
-  />
-</p>
-
----
-
-## 💡 What I Do
-
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      💻<br>
-      <b>Build</b><br>
-      Practical Applications
-    </td>
-
-    <td align="center" width="200">
-      🧩<br>
-      <b>Practice</b><br>
-      DSA & Problem Solving
-    </td>
-
-    <td align="center" width="200">
-      🌐<br>
-      <b>Develop</b><br>
-      Web Applications
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="200">
-      🤖<br>
-      <b>Explore</b><br>
-      AI / ML
-    </td>
-
-    <td align="center" width="200">
-      📚<br>
-      <b>Learn</b><br>
-      New Technologies
-    </td>
-
-    <td align="center" width="200">
-      🚀<br>
-      <b>Improve</b><br>
-      Every Day
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🎯 Current Goals
 
 - 🧩 Strengthen DSA and problem-solving skills
@@ -301,7 +198,6 @@ currently_learning:
     />
   </a>
 
-  &nbsp;&nbsp;&nbsp;
 
   <a href="https://www.linkedin.com/in/kamlesh-kumar-sahu-9b361a309">
     <img
