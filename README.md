@@ -1,53 +1,126 @@
-
 <h1 align="center">Hi 👋, I'm Kamlesh Kumar Sahu</h1>
 
----
+<h3 align="center">
+  B.Tech CSE Student • Developer • Problem Solver • Lifelong Learner
+</h3>
 
-## 📊 GitHub Stats
-<!-- Add your GitHub stats with token -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=KamleshSahu874&show_icons=true&count_private=true&theme=radical&token=PAT_1)
-
----
-
-## 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=KamleshSahu874&theme=radical&token=PAT_1)
-
----
-
-## 🚀 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KamleshSahu874&layout=compact&theme=radical&token=PAT_1)
-
----
-
-## 🛠 Languages and Tools
-<p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://isocpp.org/" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://github.com/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+<p align="center">
+  <a href="https://github.com/KamleshSahu874">
+    <img src="https://komarev.com/ghpvc/?username=KamleshSahu874&label=Profile%20Views&color=0e75b6&style=flat" />
   </a>
 </p>
 
 ---
 
-About Me
-- 🔭 I’m currently working on **Web Development Projects**
-- 🌱 I’m learning **DSA, DBMS, and OOPS**
-- 💬 Ask me about **Java, C++, Web Dev**
-- 📫 Reach me at **https://www.linkedin.com/in/kamlesh-kumar-sahu-9b361a309**
+## 👋 About Me
+
+I'm **Kamlesh Kumar Sahu**, a Computer Science Engineering student passionate about
+building practical software solutions and continuously improving my development skills.
+
+- 🎓 B.Tech CSE — RGPV
+- 💻 Interested in Software Development & Problem Solving
+- 🌱 Currently improving my **DSA, Web Development and Backend Development** skills
+- 🧠 Exploring **AI/ML and Computer Networks**
+- 🚀 I enjoy building projects and learning new technologies
+- ⚡ Believe in learning by building
+
+---
+
+## ⚡ At a Glance
+
+| 🎓 Education | 💻 Focus | 🧠 Learning |
+|---|---|---|
+| B.Tech CSE | Software Development | DSA |
+| RGPV | Web Development | Backend |
+| 6th Semester | Problem Solving | AI/ML |
+
+---
+
+## 📊 GitHub Overview
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=KamleshSahu874&show_icons=true&hide_border=true&rank_icon=github&include_all_commits=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamleshSahu874&layout=compact&hide_border=true&theme=tokyonight" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=KamleshSahu874&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KamleshSahu874&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css" />
+</p>
+
+### 🌐 Web Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind" />
+</p>
+
+### 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
+
+### 🔧 Tools & Technologies
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+</p>
+
+---
+
+## 📚 Currently Learning
+
+<table>
+<tr>
+<td>🧩 DSA & Problem Solving</td>
+<td>🌐 Advanced Web Development</td>
+</tr>
+<tr>
+<td>⚙️ Backend Development</td>
+<td>🤖 AI / ML</td>
+</tr>
+<tr>
+<td>🌐 Computer Networks</td>
+<td>☕ Advanced Java</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Achievements & Progress
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=KamleshSahu874&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+## 💡 What I Do
+
+```text
+💻 Build        →  Practical software projects
+🧠 Learn        →  New technologies & concepts
+🧩 Practice     →  DSA & problem solving
+🌐 Explore      →  Web development & networking
+🚀 Improve      →  One step at a time
